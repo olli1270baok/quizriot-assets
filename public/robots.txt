@@ -1,0 +1,34 @@
+# robots.txt for QuizRiot Arena
+# Quiz PWA - Multiplayer Trivia Game
+
+User-agent: *
+Allow: /
+
+# Disallow admin and debug pages
+Disallow: /admin
+Disallow: /debug
+Disallow: /debug-horror
+Disallow: /db-stats
+Disallow: /visual-quiz-pool-manager
+Disallow: /achievement-preview
+Disallow: /freemium-demo
+
+# Disallow payment callbacks (no SEO value)
+Disallow: /payment-success
+Disallow: /payment-cancel
+Disallow: /auth/callback
+
+# Allow all main game pages
+Allow: /dashboard
+Allow: /categories
+Allow: /multiplayer
+Allow: /battle-royale
+Allow: /leaderboard
+Allow: /achievements
+Allow: /pricing
+
+# Sitemap location
+Sitemap: https://quizriot.app/sitemap.xml
+
+# Crawl-delay (be nice to servers)
+Crawl-delay: 1
