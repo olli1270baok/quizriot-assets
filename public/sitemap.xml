@@ -7,7 +7,7 @@
   <!-- Main Pages -->
   <url>
     <loc>https://quizriot.app/</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -15,13 +15,13 @@
   <!-- Authentication -->
   <url>
     <loc>https://quizriot.app/login</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://quizriot.app/register</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -29,13 +29,13 @@
   <!-- Core App Screens -->
   <url>
     <loc>https://quizriot.app/dashboard</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://quizriot.app/categories</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -43,31 +43,31 @@
   <!-- Game Modes -->
   <url>
     <loc>https://quizriot.app/multiplayer</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://quizriot.app/battle-royale</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://quizriot.app/duel</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://quizriot.app/offline-practice</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://quizriot.app/daily-challenges</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -75,25 +75,25 @@
   <!-- Regional Battle Modes -->
   <url>
     <loc>https://quizriot.app/state-battles</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://quizriot.app/bundesland-battles</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://quizriot.app/nations-battles</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://quizriot.app/eu-championship</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -101,19 +101,19 @@
   <!-- Specialty Quiz Modes -->
   <url>
     <loc>https://quizriot.app/university-battles</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://quizriot.app/pro-football</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://quizriot.app/proper-pub-quiz</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -121,19 +121,19 @@
   <!-- User Profile & Social -->
   <url>
     <loc>https://quizriot.app/profile</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://quizriot.app/customize-profile</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://quizriot.app/friends</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -141,31 +141,31 @@
   <!-- Stats & Achievements -->
   <url>
     <loc>https://quizriot.app/stats</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://quizriot.app/achievements</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://quizriot.app/leaderboard</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://quizriot.app/state-leaderboard</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://quizriot.app/trophy-cabinet</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -173,25 +173,25 @@
   <!-- Collections & Cards -->
   <url>
     <loc>https://quizriot.app/collection</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://quizriot.app/battle-royale-cards</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://quizriot.app/state-pride-cards</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://quizriot.app/bundesland-pride-cards</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -199,25 +199,25 @@
   <!-- Shop & Subscription -->
   <url>
     <loc>https://quizriot.app/shop</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://quizriot.app/power-ups-shop</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://quizriot.app/subscription</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://quizriot.app/pricing</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -225,25 +225,25 @@
   <!-- Support & Legal -->
   <url>
     <loc>https://quizriot.app/help-center</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://quizriot.app/settings</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://quizriot.app/privacy</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://quizriot.app/terms</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -251,13 +251,13 @@
   <!-- Special Pages -->
   <url>
     <loc>https://quizriot.app/social-media-kit</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://quizriot.app/ios-icon-creator</loc>
-    <lastmod>2024-12-30</lastmod>
+    <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
